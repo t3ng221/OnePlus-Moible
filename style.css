@@ -1,0 +1,62 @@
+.bb
+{
+    border:2px solid blue;
+    border-width: 5px;
+    border-radius: 40px;
+    margin: 1px;
+    height: 120px;
+    padding: 12px;
+    border-bottom: 2px;
+    border-top: 2px;
+
+}
+.dis
+{
+    color:black;
+    background-color:blueviolet;
+    font-size:20px;
+    font-weight:30px;
+    font-style: normal;
+    font-family:monospace;
+    height:30px;
+    width: 25.5%;
+
+}
+
+         .first
+         {
+             width: 300px;
+             float: left;
+             padding: 4px;
+         }
+         
+         .second
+         { 
+            width: 300px;
+             float: left;
+             padding: 4px;
+     }
+     .third
+     {
+         width: 280px;
+         margin: auto;
+        display: inline-block;
+        clear:both;
+        padding: 4px;
+    }
+     .four
+     {
+         width:300px;
+         margin: auto;
+         display: inline-block;
+         clear: both;
+         padding: 4px;
+     }
+     .five
+     {
+         width: 280px;
+         margin: auto;
+         display: inline-block;
+         clear: both;
+         padding: 4px;
+     }
